@@ -2,27 +2,27 @@
 # Dante Cheatset
 
   ## summary 
-  *[Nmap](#Nmap) 
-  - Wp-Scan
-  - Netcat 
-  - Reverse Shell Payloads
-  - Linpeas
-  - ProxyChains
-  - Ping Sweep (For ports and hosts)
-  - SMBClient
-  - WireShark
-  - Dirb
-  - Ffuzz 
-  - Dirbuster
-  - Wfuzz
-  - SqlMap
-  - BurpSuite
-  - AutoBlue (MS17-010)
-  - Impacket
-  - Mimikatz
-  - Xfreerdp 
-  - Zenmap
-  - Evil-WinRM
-  - Bloodhound
-  - pspy
+  - [Nmap](#Nmap) 
+  - [Wp-Scan](#Wp-Scam)
+  - [Netcat](#Netcat)
+  - [Reverse Shell Payloads](#Reverse Shell Payloads)
+  - [Linpeas](#Linpeas)
+  - [ProxyChains](#ProxyChains)
+  - [Ping Sweep (For ports and hosts)](#Ping Sweep (For ports and hosts))
+  - [SMBClient](#SMBClient)
+  - [WireShark](#WireShark)
+  - [Dirb](#Dirb)
+  - [Ffuzz](#Ffuzz)
+  - [Dirbuster](#Dirbuster)
+  - [Wfuzz](#Wfuzz)
+  - [SqlMap](#SqlMap)
+  - [BurpSuite](#BurpSuite)
+  - [AutoBlue (MS17-010)](#AutoBlue (MS17-010))
+  - [Impacket](#Impacket)
+  - [Mimikatz](#Mimikatz)
+  - [Xfreerdp](#Xfreerdp)
+  - [Zenmap](#Zenmap)
+  - [Evil-WinRM](#Evil-WinRM)
+  - [Bloodhound](#Bloodhound)
+  - [pspy](#pspy)
   
